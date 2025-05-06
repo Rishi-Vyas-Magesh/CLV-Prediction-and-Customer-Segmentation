@@ -7,3 +7,5 @@ Dataset: Digital Wallets (Paytm/Google Pay) Dataset.
 
 Notebook contains Data Evaluation, EDA (Exploratory Data Analysis), Feature Engineering in multiple aspects, Normalisation---MLR Predictive model ending with an 85.5% accuracy.
 I do have ideas and room for improvement. Later, K-means clustering (Unsupervised Technique) was used to segment customers based on their "Predicted_LTV" (Created using the MLR model applied on the entire dataset) to segment them into " Low, Medium, High Value" Customers.
+
+The dataset and IPYNB python code file has been attached.
